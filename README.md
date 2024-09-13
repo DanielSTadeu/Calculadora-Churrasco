@@ -1,25 +1,27 @@
-Este projeto tem o intuito de servir como aprendizado em JavaScript. Sua funcionalidade é calcular a quantidade de carnes e bebidas necessárias para um churrasco, com base na quantidade de pessoas. Os cálculos são feitos com valores fixos para cada item e pessoa:
+# **Barbecue Calculator**
+This project aims to serve as a learning experience in JavaScript. Its functionality is to calculate the amount of meat and beverages needed for a barbecue based on the number of people.
 
-Carne Bovina:
-Homens: 500g
-Mulheres: 300g
-Crianças: 200g
+## Values for Calculation:
+### Beef:
+Men: 500g
+Women: 300g
+Children: 200g
 
-Frango:
-Homens: 200g
-Mulheres: 200g
-Crianças: 100g
+### Chicken:
+Men: 200g
+Women: 200g
+Children: 100g
 
-Linguiça:
-Homens: 200g
-Mulheres: 200g
-Crianças: 200g
+### Sausage:
+Men: 200g
+Women: 200g
+Children: 200g
 
-Refrigerante:
-Homens: 300ml
-Mulheres: 400ml
-Crianças: 200ml
+### Soft Drinks:
+Men: 300ml
+Women: 400ml
+Children: 200ml
 
-Cerveja:
-Homens: 800ml
-Mulheres: 500ml
+### Beer:
+Men: 800ml
+Women: 500ml
